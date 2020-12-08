@@ -13,3 +13,7 @@ body {
   max-width: 90vh;
   width: 400px;
 }
+
+a {
+  color: #396855;
+}
